@@ -1,0 +1,6 @@
+2026-03-25T11:53:02.292+05:30  INFO 17076 --- [Onepiece] [main] com.springboot.DemoApplication           : Starting DemoApplication using Java 24.0.1 with PID 17076 (C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo\target\classes started by SURYA in C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo)
+2026-03-25T11:53:02.315+05:30  INFO 17076 --- [Onepiece] [main] com.springboot.DemoApplication           : No active profile set, falling back to 1 default profile: "default"
+2026-03-25T11:53:03.323+05:30  INFO 17076 --- [Onepiece] [main] com.springboot.DemoApplication           : Started DemoApplication in 1.979 seconds (process running for 2.783)
+2026-03-25T11:53:03.332+05:30  INFO 17076 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Started......
+2026-03-25T11:53:03.342+05:30  INFO 17076 --- [Onepiece] [main] com.springboot.DemoApplication           : Enter Student Regno
+2026-03-25T11:53:06.597+05:30  INFO 17076 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Ended.....

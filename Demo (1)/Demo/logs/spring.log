@@ -1,0 +1,7 @@
+2026-03-25T11:37:24.409+05:30  INFO 24804 --- [Onepiece] [main] com.springboot.DemoApplication           : Starting DemoApplication using Java 24.0.1 with PID 24804 (C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo\target\classes started by SURYA in C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo)
+2026-03-25T11:37:24.420+05:30  INFO 24804 --- [Onepiece] [main] com.springboot.DemoApplication           : No active profile set, falling back to 1 default profile: "default"
+2026-03-25T11:37:25.386+05:30  INFO 24804 --- [Onepiece] [main] com.springboot.DemoApplication           : Started DemoApplication in 2.089 seconds (process running for 2.934)
+2026-03-25T11:37:25.396+05:30  INFO 24804 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Started......
+2026-03-25T11:37:25.407+05:30  INFO 24804 --- [Onepiece] [main] com.springboot.DemoApplication           : Enter Student Regno
+2026-03-25T11:38:04.847+05:30  INFO 24804 --- [Onepiece] [main] com.springboot.DemoApplication           : My regno is 111
+2026-03-25T11:38:04.848+05:30  INFO 24804 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Ended.....

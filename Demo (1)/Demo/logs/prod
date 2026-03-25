@@ -1,0 +1,42 @@
+2026-03-25T14:09:49.390+05:30  INFO 31448 --- [Onepiece] [main] com.springboot.DemoApplication           : Starting DemoApplication using Java 24.0.1 with PID 31448 (C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo\target\classes started by SURYA in C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo)
+2026-03-25T14:09:49.399+05:30  INFO 31448 --- [Onepiece] [main] com.springboot.DemoApplication           : The following 1 profile is active: "prod"
+2026-03-25T14:09:50.366+05:30  INFO 31448 --- [Onepiece] [main] com.springboot.DemoApplication           : Started DemoApplication in 2.029 seconds (process running for 2.867)
+2026-03-25T14:09:50.374+05:30  INFO 31448 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Started......
+2026-03-25T14:09:50.378+05:30  INFO 31448 --- [Onepiece] [main] com.springboot.DemoApplication           : Enter Student Regno
+2026-03-25T14:09:55.097+05:30  INFO 31448 --- [Onepiece] [main] com.springboot.DemoApplication           : My regno is 12
+2026-03-25T14:09:55.098+05:30  INFO 31448 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Ended.....
+2026-03-25T14:10:07.640+05:30  INFO 12100 --- [Onepiece] [main] com.springboot.DemoApplication           : Starting DemoApplication using Java 24.0.1 with PID 12100 (C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo\target\classes started by SURYA in C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo)
+2026-03-25T14:10:07.648+05:30  INFO 12100 --- [Onepiece] [main] com.springboot.DemoApplication           : The following 1 profile is active: "prod"
+2026-03-25T14:10:08.652+05:30  INFO 12100 --- [Onepiece] [main] com.springboot.DemoApplication           : Started DemoApplication in 2.058 seconds (process running for 3.133)
+2026-03-25T14:10:08.660+05:30  INFO 12100 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Started......
+2026-03-25T14:10:08.664+05:30  INFO 12100 --- [Onepiece] [main] com.springboot.DemoApplication           : Enter Student Regno
+2026-03-25T14:10:26.687+05:30 ERROR 12100 --- [Onepiece] [main] com.springboot.DemoApplication           : invalid Student Regno
+
+java.util.InputMismatchException
+	at java.base/java.util.Scanner.throwFor(Scanner.java:964) ~[na:na]
+	at java.base/java.util.Scanner.next(Scanner.java:1619) ~[na:na]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2284) ~[na:na]
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2238) ~[na:na]
+	at com.springboot.DemoApplication.run(DemoApplication.java:31) ~[classes/:na]
+	at org.springframework.boot.SpringApplication.lambda$callRunner$1(SpringApplication.java:792) ~[spring-boot-4.0.4.jar:4.0.4]
+	at org.springframework.util.function.ThrowingConsumer$1.acceptWithException(ThrowingConsumer.java:82) ~[spring-core-7.0.6.jar:7.0.6]
+	at org.springframework.util.function.ThrowingConsumer.accept(ThrowingConsumer.java:60) ~[spring-core-7.0.6.jar:7.0.6]
+	at org.springframework.util.function.ThrowingConsumer$1.accept(ThrowingConsumer.java:86) ~[spring-core-7.0.6.jar:7.0.6]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:800) ~[spring-boot-4.0.4.jar:4.0.4]
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:791) ~[spring-boot-4.0.4.jar:4.0.4]
+	at org.springframework.boot.SpringApplication.lambda$callRunners$0(SpringApplication.java:776) ~[spring-boot-4.0.4.jar:4.0.4]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:186) ~[na:na]
+	at java.base/java.util.stream.SortedOps$SizedRefSortingSink.end(SortedOps.java:357) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:571) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:153) ~[na:na]
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:176) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:265) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:636) ~[na:na]
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:776) ~[spring-boot-4.0.4.jar:4.0.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:328) ~[spring-boot-4.0.4.jar:4.0.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.4.jar:4.0.4]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.4.jar:4.0.4]
+	at com.springboot.DemoApplication.main(DemoApplication.java:23) ~[classes/:na]
+
+2026-03-25T14:10:26.711+05:30  INFO 12100 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Ended.....

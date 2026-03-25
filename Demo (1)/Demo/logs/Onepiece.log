@@ -1,0 +1,21 @@
+2026-03-25T14:06:57.765+05:30  INFO 19900 --- [Onepiece] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-03-25T14:06:57.806+05:30 ERROR 19900 --- [Onepiece] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in com.springboot.service.impl.StudentServiceImpl required a bean of type 'com.springboot.repository.StudentRepository' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.springboot.repository.StudentRepository' in your configuration.
+

@@ -1,0 +1,14 @@
+2026-03-25T11:40:34.523+05:30  INFO 7252 --- [Onepiece] [main] com.springboot.DemoApplication           : Starting DemoApplication using Java 24.0.1 with PID 7252 (C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo\target\classes started by SURYA in C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo)
+2026-03-25T11:40:34.533+05:30  INFO 7252 --- [Onepiece] [main] com.springboot.DemoApplication           : No active profile set, falling back to 1 default profile: "default"
+2026-03-25T11:40:35.445+05:30  INFO 7252 --- [Onepiece] [main] com.springboot.DemoApplication           : Started DemoApplication in 1.891 seconds (process running for 2.716)
+2026-03-25T11:40:35.453+05:30  INFO 7252 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Started......
+2026-03-25T11:40:35.463+05:30  INFO 7252 --- [Onepiece] [main] com.springboot.DemoApplication           : Enter Student Regno
+2026-03-25T11:40:37.246+05:30  INFO 7252 --- [Onepiece] [main] com.springboot.DemoApplication           : My regno is 29
+2026-03-25T11:40:37.249+05:30  INFO 7252 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Ended.....
+2026-03-25T11:49:03.135+05:30  INFO 21572 --- [Onepiece] [main] com.springboot.DemoApplication           : Starting DemoApplication using Java 24.0.1 with PID 21572 (C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo\target\classes started by SURYA in C:\Users\SURYA\Documents\java project  maven march\Demo (1)\Demo)
+2026-03-25T11:49:03.143+05:30  INFO 21572 --- [Onepiece] [main] com.springboot.DemoApplication           : No active profile set, falling back to 1 default profile: "default"
+2026-03-25T11:49:04.169+05:30  INFO 21572 --- [Onepiece] [main] com.springboot.DemoApplication           : Started DemoApplication in 2.155 seconds (process running for 3.017)
+2026-03-25T11:49:04.177+05:30  INFO 21572 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Started......
+2026-03-25T11:49:04.181+05:30  INFO 21572 --- [Onepiece] [main] com.springboot.DemoApplication           : Enter Student Regno
+2026-03-25T11:49:08.030+05:30  INFO 21572 --- [Onepiece] [main] com.springboot.DemoApplication           : My regno is 2
+2026-03-25T11:49:08.031+05:30  INFO 21572 --- [Onepiece] [main] com.springboot.DemoApplication           : My program is Ended.....
